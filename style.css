@@ -353,27 +353,34 @@ border-radius: 5rem;
 }
 
 .education .row .progress .bar-1-1 span{
-    width: 90%;
+    width: 75%;
 }
 
 .education .row .progress .bar-1-2 span{
-    width: 80%;
+    width: 60%;
 }
 
 .education .row .progress .bar-1-3 span{
     width: 74%;
 }
 
+.education .row .progress .bar-1-4 span{
+    width: 60%;
+}
+
+.education .row .progress .bar-1-5 span{
+    width: 59%;
+}
 .education .row .progress .bar-2-1 span{
     width: 95%;
 }
 
 .education .row .progress .bar-2-2 span{
-    width: 89%;
+    width: 70%;
 }
 
 .education .row .progress .bar-2-3 span{
-    width: 65%;
+    width: 70%;
 }
 
 
